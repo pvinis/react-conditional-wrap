@@ -8,7 +8,11 @@
     "react": "^17"
   },
   "devDependencies": {
+    "@testing-library/dom": "^10.2.0",
+    "@testing-library/react": "^16.0.0",
+    "@tsconfig/recommended": "^1.0.6",
     "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
     "prettier": "^3.3.2",
     "react": "^18.3.1"
   }
