@@ -3,7 +3,7 @@
   "version": "1.0.0-rc.3",
   "type": "module",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc --outDir dist --declaration",
     "test": "jest"
   },
   "dependencies": {
