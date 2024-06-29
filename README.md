@@ -6,7 +6,9 @@ A simple component that helps you easily wrap components with other components, 
 ## Installation
 
 ```sh
-npm install react-conditional-wrap
+npm install @pvinis/react-conditional-wrap
+or
+npx jsr add @pvinis/react-conditional-wrap
 ```
 
 ## Usage
