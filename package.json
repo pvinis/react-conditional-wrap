@@ -26,5 +26,17 @@
     "react": "^18.3.1",
     "ts-jest": "^29.1.5",
     "typescript": "^5.5.2"
-  }
+  },
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "react",
+    "conditional",
+    "wrap"
+  ],
+  "author": "Pavlos Vinieratos <pvinis>"
 }
