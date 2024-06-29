@@ -1,6 +1,9 @@
 {
   "name": "@pvinis/react-conditional-wrap",
   "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "react-nanny": "^2.15.0"
   },
