@@ -3,8 +3,9 @@
   "version": "1.0.0-rc.3",
   "type": "module",
   "scripts": {
+    "test": "jest",
     "build": "tsc --outDir dist --declaration",
-    "test": "jest"
+    "publish": "publish --access public"
   },
   "dependencies": {
     "react-nanny": "^2.15.0"
