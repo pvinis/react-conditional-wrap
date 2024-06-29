@@ -3,5 +3,6 @@
   "compilerOptions": {
     "jsx": "react-jsx",
     "types": ["jest"]
-  }
+  },
+  "exclude": ["example"]
 }
