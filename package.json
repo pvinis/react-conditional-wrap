@@ -1,11 +1,11 @@
 {
   "name": "@pvinis/react-conditional-wrap",
-  "version": "1.0.0-rc.3",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "test": "jest",
     "build": "tsc --outDir dist --declaration",
-    "publish": "publish --access public"
+    "publish": "pnpm publish --access public"
   },
   "dependencies": {
     "react-nanny": "^2.15.0"
