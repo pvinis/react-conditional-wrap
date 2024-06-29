@@ -29,4 +29,3 @@ Wrap.Content = WrapContent
 function WrapContent({ children }: PropsWithChildren): JSX.Element {
 	return <>{children}</>
 }
-
