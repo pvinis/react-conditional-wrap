@@ -7,7 +7,6 @@ interface WrapProps {
 
 /**
  * The outer component of this library.
- *
  * Everything between this component and Wrap.Content will be rendered only if the `if` value is true.
  */
 export function Wrap({
@@ -32,7 +31,6 @@ export function Wrap({
 
 /**
  * The inner component of this library.
- *
  * Everything inside this component will always be rendered.
  */
 Wrap.Content = WrapContent
