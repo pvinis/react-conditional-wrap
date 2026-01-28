@@ -1,6 +1,19 @@
 {
   "name": "@pvinis/react-conditional-wrap",
   "version": "1.0.1",
+  "description": "A simple component that helps you easily wrap components with other components, conditionally",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pvinis/react-conditional-wrap.git"
+  },
+  "homepage": "https://github.com/pvinis/react-conditional-wrap#readme",
+  "bugs": {
+    "url": "https://github.com/pvinis/react-conditional-wrap/issues"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "type": "module",
   "scripts": {
     "test": "jest",
